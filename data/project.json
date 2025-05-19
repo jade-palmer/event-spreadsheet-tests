@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "jade-palmer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192922080?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "jade-palmer",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-05-19T19:10:28.842Z",
-    "updated_at": "2025-05-19T19:10:28.842Z"
-  }
+    "updated_at": "2025-05-19T19:10:28.842Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "260dd497-1b76-454a-bd27-90f4e87855b1": {
+      "content": [],
+      "created_at": "2025-05-19T19:10:28.880Z",
+      "created_by": "jade-palmer",
+      "title": "event spreadsheets ",
+      "updated_at": "2025-05-19T19:10:28.880Z",
+      "updated_by": "jade-palmer",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "260dd497-1b76-454a-bd27-90f4e87855b1"
+  ]
 }
