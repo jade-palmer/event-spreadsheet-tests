@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "18285d4b-95e3-4de8-8c78-fc12f48648f8": {
+      "label": "1996-02-14, Lollapalooza Book Launch",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/bs9CKuQNKrY",
+      "duration": 1382
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1996-02-14 Lollapalooza Book Launch",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word event series event held at Fetish Cafe (1426 Rue Beaudry, Montreal, QC, H2L3E5, Canada) on February 14, 1996, hosted by Lee Gotham. Performances by Lee Gotham, Adeena Karasick and Jill Battson."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-19T19:48:53.227Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-19T19:48:53.227Z",
+  "updated_by": "jade-palmer"
+}

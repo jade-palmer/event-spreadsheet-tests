@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "28a0db0d-d145-482e-bdd6-140529357909": {
+      "label": "1995-01-23, Neil Wiernik and Fortner Anderson",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/MCaEqtcABjw",
+      "duration": 5715
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1995-01-23 Neil Wiernik and Fortner Anderson",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on January 23, 1995, hosted by Lee Gotham. Feature performances by Neil Wiernick and Fortner Anderson. Open mic/supporting performances by Joelle Ciona, Fluffy Pagan Echoes (Victoria Stanton, Scott Duncan, Vincent Tinguely), Ian Stephens, Justin McGrail, and more."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-19T19:48:53.227Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-19T19:48:53.227Z",
+  "updated_by": "jade-palmer"
+}

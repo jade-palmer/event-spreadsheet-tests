@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "faf67a35-2051-43c4-8312-7f9bca77a8fe": {
+      "label": "1995-02-20, Njacko Backo and Groupe de Poesie Moderne",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/OzW3j0nSXHo",
+      "duration": 4208
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "1995-02-20 Njacko Backo and Groupe de Poesie Moderne",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Enough Said spoken word series event held at Bistro 4 (4040 St. Laurent, Montreal, QC, H2W 1Y8, Canada) on February 20, 1995, hosted by Lee Gotham. Feature performances by Njacko Backo and Groupe de Poesie Moderne. Supporting performance by Trevor John Ferrier."
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-19T19:48:53.227Z",
+  "created_by": "jade-palmer",
+  "updated_at": "2025-05-19T19:48:53.227Z",
+  "updated_by": "jade-palmer"
+}
